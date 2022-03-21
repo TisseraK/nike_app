@@ -2,4 +2,4 @@
 # Concept App Nike Store 100% Flutter
 ## ⚠️ Le design n'est pas de moi, je me suis inspiré d'un projet sur Behance.
 Tout est fait main, sauf le design bien sur.
-Crédit : https://behance.net/gallery/95410817/Spotify-Re-Design-Concept?tracking_source=search_projects%7Cconcept%20app
+Crédit : https://www.behance.net/gallery/125700171/Nike-Mobile-app-Concept?tracking_source=search_projects_recommended%7Cconcept%20app%20nike
